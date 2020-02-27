@@ -1,1 +1,0 @@
-# imagifier-python-image-editor
